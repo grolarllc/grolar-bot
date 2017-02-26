@@ -1,15 +1,19 @@
 {
   "name": "grolar-bot",
-  "version": "0.0.0",
-  "description": "About 14_000 years ago, polar bear and grizzly bears were of the same ancestor. They each migrated into their known climates and dominated these territories. ",
+  "version": "0.0.1",
+  "description": "About 14_000 years ago, polar bear and grizzly bears were of the same ancestor. They each migrated into their known climates and dominated these territories. Global warming has pushed polar bears south and these two bears are coming in contact more often now. There are at least 3 known cases of the grolar bear in the wild and many more in captivity. It's fertile and a glimpse into how evolutionary paths diverge and cross.",
   "main": "behavior/scripts/index.js",
   "scripts": {
     "start": "initai-dev-server"
   },
-  "author": "<my-name> <<my-email-address>>",
+  "author": "Daniel Sperry <<danny.sperry@gmail.com>>",
   "license": "UNLICENSED",
   "dependencies": {
     "initai-dev-server": "^0.4.8",
     "initai-node": "~0.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/grolarllc/grolar-bot.git"
   }
 }
