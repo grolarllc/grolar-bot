@@ -1,0 +1,15 @@
+{
+  "name": "grolar-bot",
+  "version": "0.0.0",
+  "description": "About 14_000 years ago, polar bear and grizzly bears were of the same ancestor. They each migrated into their known climates and dominated these territories. ",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "initai-dev-server": "^0.4.8",
+    "initai-node": "~0.0.7"
+  }
+}
